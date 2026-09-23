@@ -174,3 +174,6 @@
 {"n":174,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, north escape. direct left open. 3 steps. The barrel stays for the hit."}
 {"n":175,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at the Lot. Nobody past the north escape. We hit in 4 steps. Direct on the left lane, open."}
 {"n":176,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Lot north escape. Ivo keeps the barrel for the hit. 5 steps, direct on the left lane, open."}
+{"n":177,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north escape. direct left open. 6 steps. The barrel stays for the hit."}
+{"n":178,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at the Lot. Nobody past the north escape. We hit in 7 steps. Direct on the left lane, open."}
+{"n":179,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot north escape. Bess keeps the barrel for the hit. 8 steps, direct on the left lane, open."}
