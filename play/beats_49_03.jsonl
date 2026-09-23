@@ -85,3 +85,6 @@
 {"n":85,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at Last Light. Nobody past the south escape. We hit in 2 steps. Direct on the left lane, open."}
 {"n":86,"kind":"place","name":"Last Light south escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Last Light south escape. Matt keeps the shutter for the hit. 3 steps, direct on the left lane, open."}
 {"n":87,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, south escape. direct left open. 4 steps. The shutter stays for the hit."}
+{"n":88,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at Last Light. Nobody past the south escape. We hit in 5 steps. Direct on the left lane, open."}
+{"n":89,"kind":"place","name":"Last Light south escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Last Light south escape. Nia keeps the shutter for the hit. 6 steps, direct on the left lane, open."}
+{"n":90,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, south escape. direct left open. 7 steps. The shutter stays for the hit."}
