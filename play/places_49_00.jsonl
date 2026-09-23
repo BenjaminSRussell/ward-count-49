@@ -66,3 +66,6 @@
 {"n":66,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, north escape. direct left open. 7 steps. The hydrant stays for the hit."}
 {"n":67,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at Last Light. Nobody past the north escape. We hit in 8 steps. Direct on the left lane, open."}
 {"n":68,"kind":"place","name":"Last Light north escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Last Light north escape. Ivo keeps the hydrant for the hit. 2 steps, direct on the left lane, open."}
+{"n":69,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, north escape. direct left open. 3 steps. The hydrant stays for the hit."}
+{"n":70,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at Last Light. Nobody past the north escape. We hit in 4 steps. Direct on the left lane, open."}
+{"n":71,"kind":"place","name":"Last Light north escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Last Light north escape. Bess keeps the hydrant for the hit. 5 steps, direct on the left lane, open."}
