@@ -863,3 +863,6 @@
 {"n":863,"kind":"place","name":"Kessler alley west curb","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley west curb. Bess keeps the plywood for the start. 3 steps, arc on the left lane, open."}
 {"n":864,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west curb. arc left open. 4 steps. The plywood stays for the start."}
 {"n":865,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at the Lot. Nobody past the west curb. We start in 5 steps. Arc on the left lane, open."}
+{"n":866,"kind":"place","name":"the Lot west curb","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Lot west curb. Matt keeps the plywood for the start. 6 steps, arc on the left lane, open."}
+{"n":867,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, west curb. arc left open. 7 steps. The plywood stays for the start."}
+{"n":868,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at the Lot. Nobody past the west curb. We start in 8 steps. Arc on the left lane, open."}
