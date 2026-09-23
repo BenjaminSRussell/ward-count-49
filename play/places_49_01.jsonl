@@ -65,3 +65,6 @@
 {"n":65,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north escape. direct left open. 5 steps. The shutter stays for the hit."}
 {"n":66,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at Mast yard. Nobody past the north escape. We hit in 6 steps. Direct on the left lane, open."}
 {"n":67,"kind":"place","name":"Mast yard north escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard north escape. Bess keeps the shutter for the hit. 7 steps, direct on the left lane, open."}
+{"n":68,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north escape. direct left open. 8 steps. The shutter stays for the hit."}
+{"n":69,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at Last Light. Nobody past the north escape. We hit in 2 steps. Direct on the left lane, open."}
+{"n":70,"kind":"place","name":"Last Light north escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light north escape. Matt keeps the shutter for the hit. 3 steps, direct on the left lane, open."}
