@@ -181,3 +181,6 @@
 {"n":181,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Kessler alley. Nobody past the south escape. We hit in 7 steps. Direct on the left lane, open."}
 {"n":182,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley south escape. Matt keeps the awning for the hit. 8 steps, direct on the left lane, open."}
 {"n":183,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, south escape. direct left open. 2 steps. The awning stays for the hit."}
+{"n":184,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Kessler alley. Nobody past the south escape. We hit in 3 steps. Direct on the left lane, open."}
+{"n":185,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley south escape. Nia keeps the awning for the hit. 4 steps, direct on the left lane, open."}
+{"n":186,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south escape. direct left open. 5 steps. The awning stays for the hit."}
