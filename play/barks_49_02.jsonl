@@ -594,3 +594,6 @@
 {"n":594,"kind":"place","name":"South stair south escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"South stair south escape. Matt keeps the lamp for the hit. 8 steps, direct on the left lane, open."}
 {"n":595,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, south escape. direct left open. 2 steps. The lamp stays for the hit."}
 {"n":596,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at South stair. Nobody past the south escape. We hit in 3 steps. Direct on the left lane, open."}
+{"n":597,"kind":"place","name":"South stair south escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"South stair south escape. Nia keeps the lamp for the hit. 4 steps, direct on the left lane, open."}
+{"n":598,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, south escape. direct left open. 5 steps. The lamp stays for the hit."}
+{"n":599,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at South stair. Nobody past the south escape. We hit in 6 steps. Direct on the left lane, open."}
