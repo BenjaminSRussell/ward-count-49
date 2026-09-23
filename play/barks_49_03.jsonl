@@ -14,3 +14,6 @@
 {"n":14,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Kessler alley south escape. Matt keeps the shutter for the hit. 8 steps, direct on the left lane, open."}
 {"n":15,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, south escape. direct left open. 2 steps. The shutter stays for the hit."}
 {"n":16,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at Kessler alley. Nobody past the south escape. We hit in 3 steps. Direct on the left lane, open."}
+{"n":17,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley south escape. Nia keeps the shutter for the hit. 4 steps, direct on the left lane, open."}
+{"n":18,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south escape. direct left open. 5 steps. The shutter stays for the hit."}
+{"n":19,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Kessler alley. Nobody past the south escape. We hit in 6 steps. Direct on the left lane, open."}
