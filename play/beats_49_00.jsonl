@@ -307,3 +307,6 @@
 {"n":307,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at High line. Nobody past the north escape. We hit in 3 steps. Direct on the left lane, open."}
 {"n":308,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line north escape. Ivo keeps the barrel for the hit. 4 steps, direct on the left lane, open."}
 {"n":309,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north escape. direct left open. 5 steps. The barrel stays for the hit."}
+{"n":310,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at High line. Nobody past the north escape. We hit in 6 steps. Direct on the left lane, open."}
+{"n":311,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line north escape. Bess keeps the barrel for the hit. 7 steps, direct on the left lane, open."}
+{"n":312,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north escape. direct left open. 8 steps. The barrel stays for the hit."}
