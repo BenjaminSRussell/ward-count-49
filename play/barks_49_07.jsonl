@@ -871,3 +871,6 @@
 {"n":871,"kind":"place","name":"High line east curb","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line east curb. Bess keeps the radio coil for the start. 7 steps, arc on the left lane, open."}
 {"n":872,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east curb. arc left open. 8 steps. The radio coil stays for the start."}
 {"n":873,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at Ward gate. Nobody past the north curb. We start in 2 steps. Arc on the left lane, open."}
+{"n":874,"kind":"place","name":"Ward gate north curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate north curb. Matt keeps the plywood for the start. 3 steps, arc on the left lane, open."}
+{"n":875,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north curb. arc left open. 4 steps. The plywood stays for the start."}
+{"n":876,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at Ward gate. Nobody past the north curb. We start in 5 steps. Arc on the left lane, open."}
