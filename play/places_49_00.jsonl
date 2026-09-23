@@ -735,3 +735,6 @@
 {"n":735,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north escape. direct left open. 4 steps. The rebar stays for the hit."}
 {"n":736,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at Last Light. Nobody past the north escape. We hit in 5 steps. Direct on the left lane, open."}
 {"n":737,"kind":"place","name":"Last Light north escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Last Light north escape. Nia keeps the rebar for the hit. 6 steps, direct on the left lane, open."}
+{"n":738,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, north escape. direct left open. 7 steps. The rebar stays for the hit."}
+{"n":739,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at Last Light. Nobody past the north escape. We hit in 8 steps. Direct on the left lane, open."}
+{"n":740,"kind":"place","name":"Last Light north escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Last Light north escape. Ivo keeps the rebar for the hit. 2 steps, direct on the left lane, open."}
