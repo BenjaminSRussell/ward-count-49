@@ -318,3 +318,6 @@
 {"n":318,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south escape. direct left open. 4 steps. The awning stays for the hit."}
 {"n":319,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at Drydock. Nobody past the south escape. We hit in 5 steps. Direct on the left lane, open."}
 {"n":320,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock south escape. Ivo keeps the awning for the hit. 6 steps, direct on the left lane, open."}
+{"n":321,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south escape. direct left open. 7 steps. The awning stays for the hit."}
+{"n":322,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at Drydock. Nobody past the south escape. We hit in 8 steps. Direct on the left lane, open."}
+{"n":323,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Drydock south escape. Bess keeps the awning for the hit. 2 steps, direct on the left lane, open."}
