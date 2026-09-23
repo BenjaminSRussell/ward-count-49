@@ -673,3 +673,6 @@
 {"n":673,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at Ward gate. Nobody past the south escape. We hit in 2 steps. Direct on the left lane, open."}
 {"n":674,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate south escape. Matt keeps the radio coil for the hit. 3 steps, direct on the left lane, open."}
 {"n":675,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south escape. direct left open. 4 steps. The radio coil stays for the hit."}
+{"n":676,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Ward gate. Nobody past the south escape. We hit in 5 steps. Direct on the left lane, open."}
+{"n":677,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Ward gate south escape. Nia keeps the radio coil for the hit. 6 steps, direct on the left lane, open."}
+{"n":678,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, south escape. direct left open. 7 steps. The radio coil stays for the hit."}
