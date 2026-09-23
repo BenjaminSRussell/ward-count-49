@@ -580,3 +580,6 @@
 {"n":580,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south escape. direct left open. 8 steps. The lamp stays for the hit."}
 {"n":581,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Last Light. Nobody past the south escape. We hit in 2 steps. Direct on the left lane, open."}
 {"n":582,"kind":"place","name":"Last Light south escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light south escape. Matt keeps the lamp for the hit. 3 steps, direct on the left lane, open."}
+{"n":583,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, south escape. direct left open. 4 steps. The lamp stays for the hit."}
+{"n":584,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Last Light. Nobody past the south escape. We hit in 5 steps. Direct on the left lane, open."}
+{"n":585,"kind":"place","name":"Last Light south escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Last Light south escape. Nia keeps the lamp for the hit. 6 steps, direct on the left lane, open."}
