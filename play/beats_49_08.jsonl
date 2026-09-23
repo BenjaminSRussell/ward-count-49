@@ -410,3 +410,6 @@
 {"n":410,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at the Lot. Nobody past the north curb. We start in 7 steps. Arc on the left lane, open."}
 {"n":411,"kind":"place","name":"the Lot north curb","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot north curb. Bess keeps the crate for the start. 8 steps, arc on the left lane, open."}
 {"n":412,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north curb. arc left open. 2 steps. The crate stays for the start."}
+{"n":413,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at Stockyard fence. Nobody past the north curb. We start in 3 steps. Arc on the left lane, open."}
+{"n":414,"kind":"place","name":"Stockyard fence north curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence north curb. Matt keeps the crate for the start. 4 steps, arc on the left lane, open."}
+{"n":415,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north curb. arc left open. 5 steps. The crate stays for the start."}
