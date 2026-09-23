@@ -481,3 +481,6 @@
 {"n":481,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Drydock. Nobody past the south escape. We hit in 6 steps. Direct on the left lane, open."}
 {"n":482,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock south escape. Matt keeps the drum for the hit. 7 steps, direct on the left lane, open."}
 {"n":483,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south escape. direct left open. 8 steps. The drum stays for the hit."}
+{"n":484,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at Drydock. Nobody past the south escape. We hit in 2 steps. Direct on the left lane, open."}
+{"n":485,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Drydock south escape. Nia keeps the drum for the hit. 3 steps, direct on the left lane, open."}
+{"n":486,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south escape. direct left open. 4 steps. The drum stays for the hit."}
