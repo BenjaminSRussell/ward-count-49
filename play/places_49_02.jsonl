@@ -610,3 +610,6 @@
 {"n":610,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south escape. direct left open. 3 steps. The lamp stays for the hit."}
 {"n":611,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at the pier. Nobody past the south escape. We hit in 4 steps. Direct on the left lane, open."}
 {"n":612,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the pier south escape. Ivo keeps the lamp for the hit. 5 steps, direct on the left lane, open."}
+{"n":613,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south escape. direct left open. 6 steps. The lamp stays for the hit."}
+{"n":614,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at the pier. Nobody past the south escape. We hit in 7 steps. Direct on the left lane, open."}
+{"n":615,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the pier south escape. Bess keeps the lamp for the hit. 8 steps, direct on the left lane, open."}
