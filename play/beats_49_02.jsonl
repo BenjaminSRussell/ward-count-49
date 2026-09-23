@@ -119,3 +119,6 @@
 {"n":119,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at Clinic roof. Nobody past the south escape. We hit in 2 steps. Direct on the left lane, open."}
 {"n":120,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Clinic roof south escape. Ivo keeps the hydrant for the hit. 3 steps, direct on the left lane, open."}
 {"n":121,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south escape. direct left open. 4 steps. The hydrant stays for the hit."}
+{"n":122,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at Clinic roof. Nobody past the south escape. We hit in 5 steps. Direct on the left lane, open."}
+{"n":123,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Clinic roof south escape. Bess keeps the hydrant for the hit. 6 steps, direct on the left lane, open."}
+{"n":124,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, south escape. direct left open. 7 steps. The hydrant stays for the hit."}
