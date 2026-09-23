@@ -388,3 +388,6 @@
 {"n":388,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at Mall court. Nobody past the south escape. We hit in 4 steps. Direct on the left lane, open."}
 {"n":389,"kind":"place","name":"Mall court south escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mall court south escape. Nia keeps the drum for the hit. 5 steps, direct on the left lane, open."}
 {"n":390,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, south escape. direct left open. 6 steps. The drum stays for the hit."}
+{"n":391,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at Mall court. Nobody past the south escape. We hit in 7 steps. Direct on the left lane, open."}
+{"n":392,"kind":"place","name":"Mall court south escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mall court south escape. Ivo keeps the drum for the hit. 8 steps, direct on the left lane, open."}
+{"n":393,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, south escape. direct left open. 2 steps. The drum stays for the hit."}
