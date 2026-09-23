@@ -803,3 +803,6 @@
 {"n":803,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north escape. direct left open. 8 steps. The radio coil stays for the hit."}
 {"n":804,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Drydock. Nobody past the north escape. We hit in 2 steps. Direct on the left lane, open."}
 {"n":805,"kind":"place","name":"Drydock north escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Drydock north escape. Nia keeps the radio coil for the hit. 3 steps, direct on the left lane, open."}
+{"n":806,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north escape. direct left open. 4 steps. The radio coil stays for the hit."}
+{"n":807,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Drydock. Nobody past the north escape. We hit in 5 steps. Direct on the left lane, open."}
+{"n":808,"kind":"place","name":"Drydock north escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock north escape. Ivo keeps the radio coil for the hit. 6 steps, direct on the left lane, open."}
