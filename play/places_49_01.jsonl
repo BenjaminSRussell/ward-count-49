@@ -752,3 +752,6 @@
 {"n":752,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north escape. direct left open. 6 steps. The radio coil stays for the hit."}
 {"n":753,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at South stair. Nobody past the north escape. We hit in 7 steps. Direct on the left lane, open."}
 {"n":754,"kind":"place","name":"South stair north escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"South stair north escape. Matt keeps the radio coil for the hit. 8 steps, direct on the left lane, open."}
+{"n":755,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, north escape. direct left open. 2 steps. The radio coil stays for the hit."}
+{"n":756,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at South stair. Nobody past the north escape. We hit in 3 steps. Direct on the left lane, open."}
+{"n":757,"kind":"place","name":"South stair north escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"South stair north escape. Nia keeps the radio coil for the hit. 4 steps, direct on the left lane, open."}
