@@ -407,3 +407,6 @@
 {"n":407,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north escape. direct left open. 4 steps. The drum stays for the hit."}
 {"n":408,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at Last Light. Nobody past the north escape. We hit in 5 steps. Direct on the left lane, open."}
 {"n":409,"kind":"place","name":"Last Light north escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Last Light north escape. Nia keeps the drum for the hit. 6 steps, direct on the left lane, open."}
+{"n":410,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, north escape. direct left open. 7 steps. The drum stays for the hit."}
+{"n":411,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at Last Light. Nobody past the north escape. We hit in 8 steps. Direct on the left lane, open."}
+{"n":412,"kind":"place","name":"Last Light north escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Last Light north escape. Ivo keeps the drum for the hit. 2 steps, direct on the left lane, open."}
