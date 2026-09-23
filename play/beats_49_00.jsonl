@@ -184,3 +184,6 @@
 {"n":184,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Stockyard fence. Nobody past the north escape. We hit in 6 steps. Direct on the left lane, open."}
 {"n":185,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence north escape. Nia keeps the barrel for the hit. 7 steps, direct on the left lane, open."}
 {"n":186,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north escape. direct left open. 8 steps. The barrel stays for the hit."}
+{"n":187,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Stockyard fence. Nobody past the north escape. We hit in 2 steps. Direct on the left lane, open."}
+{"n":188,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence north escape. Ivo keeps the barrel for the hit. 3 steps, direct on the left lane, open."}
+{"n":189,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north escape. direct left open. 4 steps. The barrel stays for the hit."}
