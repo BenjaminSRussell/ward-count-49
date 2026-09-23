@@ -982,3 +982,6 @@
 {"n":982,"kind":"place","name":"High line south escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"High line south escape. Matt keeps the plywood for the hit. 5 steps, direct on the left lane, open."}
 {"n":983,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, south escape. direct left open. 6 steps. The plywood stays for the hit."}
 {"n":984,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at High line. Nobody past the south escape. We hit in 7 steps. Direct on the left lane, open."}
+{"n":985,"kind":"place","name":"High line south escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"High line south escape. Nia keeps the plywood for the hit. 8 steps, direct on the left lane, open."}
+{"n":986,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south escape. direct left open. 2 steps. The plywood stays for the hit."}
+{"n":987,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at High line. Nobody past the south escape. We hit in 3 steps. Direct on the left lane, open."}
