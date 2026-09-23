@@ -467,3 +467,6 @@
 {"n":467,"kind":"place","name":"Mast yard north curb","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard north curb. Bess keeps the drum for the start. 7 steps, arc on the left lane, open."}
 {"n":468,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north curb. arc left open. 8 steps. The drum stays for the start."}
 {"n":469,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at Last Light. Nobody past the north curb. We start in 2 steps. Arc on the left lane, open."}
+{"n":470,"kind":"place","name":"Last Light north curb","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light north curb. Matt keeps the drum for the start. 3 steps, arc on the left lane, open."}
+{"n":471,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north curb. arc left open. 4 steps. The drum stays for the start."}
+{"n":472,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the drum at Last Light. Nobody past the north curb. We start in 5 steps. Arc on the left lane, open."}
