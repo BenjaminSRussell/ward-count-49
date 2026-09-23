@@ -350,3 +350,6 @@
 {"n":350,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Kessler alley south escape. Matt keeps the drum for the hit. 8 steps, direct on the left lane, open."}
 {"n":351,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, south escape. direct left open. 2 steps. The drum stays for the hit."}
 {"n":352,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at Kessler alley. Nobody past the south escape. We hit in 3 steps. Direct on the left lane, open."}
+{"n":353,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Kessler alley south escape. Nia keeps the drum for the hit. 4 steps, direct on the left lane, open."}
+{"n":354,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south escape. direct left open. 5 steps. The drum stays for the hit."}
+{"n":355,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at Kessler alley. Nobody past the south escape. We hit in 6 steps. Direct on the left lane, open."}
