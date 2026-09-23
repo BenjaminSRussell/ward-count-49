@@ -649,3 +649,6 @@
 {"n":649,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the badge door at Drydock. Nobody past the south escape. We hit in 6 steps. Direct on the left lane, open."}
 {"n":650,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock south escape. Matt keeps the badge door for the hit. 7 steps, direct on the left lane, open."}
 {"n":651,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south escape. direct left open. 8 steps. The badge door stays for the hit."}
+{"n":652,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at Drydock. Nobody past the south escape. We hit in 2 steps. Direct on the left lane, open."}
+{"n":653,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock south escape. Nia keeps the badge door for the hit. 3 steps, direct on the left lane, open."}
+{"n":654,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south escape. direct left open. 4 steps. The badge door stays for the hit."}
