@@ -7,3 +7,6 @@
 {"n":7,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Kessler alley north escape. Bess keeps the shutter for the hit. 3 steps, direct on the left lane, open."}
 {"n":8,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north escape. direct left open. 4 steps. The shutter stays for the hit."}
 {"n":9,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at the Lot. Nobody past the north escape. We hit in 5 steps. Direct on the left lane, open."}
+{"n":10,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Lot north escape. Matt keeps the shutter for the hit. 6 steps, direct on the left lane, open."}
+{"n":11,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, north escape. direct left open. 7 steps. The shutter stays for the hit."}
+{"n":12,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at the Lot. Nobody past the north escape. We hit in 8 steps. Direct on the left lane, open."}
