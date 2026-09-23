@@ -897,3 +897,6 @@
 {"n":897,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north escape. direct left open. 5 steps. The rope stays for the hit."}
 {"n":898,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at Mast yard. Nobody past the north escape. We hit in 6 steps. Direct on the left lane, open."}
 {"n":899,"kind":"place","name":"Mast yard north escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard north escape. Bess keeps the rope for the hit. 7 steps, direct on the left lane, open."}
+{"n":900,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north escape. direct left open. 8 steps. The rope stays for the hit."}
+{"n":901,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at Last Light. Nobody past the north escape. We hit in 2 steps. Direct on the left lane, open."}
+{"n":902,"kind":"place","name":"Last Light north escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light north escape. Matt keeps the rope for the hit. 3 steps, direct on the left lane, open."}
