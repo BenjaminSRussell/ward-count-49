@@ -661,3 +661,6 @@
 {"n":661,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at Kessler alley. Nobody past the north escape. We hit in 7 steps. Direct on the left lane, open."}
 {"n":662,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley north escape. Matt keeps the rebar for the hit. 8 steps, direct on the left lane, open."}
 {"n":663,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north escape. direct left open. 2 steps. The rebar stays for the hit."}
+{"n":664,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at Kessler alley. Nobody past the north escape. We hit in 3 steps. Direct on the left lane, open."}
+{"n":665,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley north escape. Nia keeps the rebar for the hit. 4 steps, direct on the left lane, open."}
+{"n":666,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, north escape. direct left open. 5 steps. The rebar stays for the hit."}
