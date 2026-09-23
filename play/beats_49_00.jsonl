@@ -559,3 +559,6 @@
 {"n":559,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at Mast yard. Nobody past the north escape. We hit in 3 steps. Direct on the left lane, open."}
 {"n":560,"kind":"place","name":"Mast yard north escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mast yard north escape. Ivo keeps the lamp for the hit. 4 steps, direct on the left lane, open."}
 {"n":561,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north escape. direct left open. 5 steps. The lamp stays for the hit."}
+{"n":562,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at Mast yard. Nobody past the north escape. We hit in 6 steps. Direct on the left lane, open."}
+{"n":563,"kind":"place","name":"Mast yard north escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard north escape. Bess keeps the lamp for the hit. 7 steps, direct on the left lane, open."}
+{"n":564,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north escape. direct left open. 8 steps. The lamp stays for the hit."}
