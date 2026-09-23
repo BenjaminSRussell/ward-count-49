@@ -376,3 +376,6 @@
 {"n":376,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at the Underpass. Nobody past the north escape. We hit in 2 steps. Direct on the left lane, open."}
 {"n":377,"kind":"place","name":"the Underpass north escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass north escape. Nia keeps the crate for the hit. 3 steps, direct on the left lane, open."}
 {"n":378,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, north escape. direct left open. 4 steps. The crate stays for the hit."}
+{"n":379,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at the Underpass. Nobody past the north escape. We hit in 5 steps. Direct on the left lane, open."}
+{"n":380,"kind":"place","name":"the Underpass north escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass north escape. Ivo keeps the crate for the hit. 6 steps, direct on the left lane, open."}
+{"n":381,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, north escape. direct left open. 7 steps. The crate stays for the hit."}
