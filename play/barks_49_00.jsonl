@@ -473,3 +473,6 @@
 {"n":473,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"High line north escape. Nia keeps the crate for the hit. 8 steps, direct on the left lane, open."}
 {"n":474,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north escape. direct left open. 2 steps. The crate stays for the hit."}
 {"n":475,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at High line. Nobody past the north escape. We hit in 3 steps. Direct on the left lane, open."}
+{"n":476,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line north escape. Ivo keeps the crate for the hit. 4 steps, direct on the left lane, open."}
+{"n":477,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north escape. direct left open. 5 steps. The crate stays for the hit."}
+{"n":478,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at High line. Nobody past the north escape. We hit in 6 steps. Direct on the left lane, open."}
