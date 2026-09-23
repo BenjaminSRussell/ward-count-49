@@ -732,3 +732,6 @@
 {"n":732,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south escape. direct left open. 5 steps. The radio coil stays for the hit."}
 {"n":733,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at the Underpass. Nobody past the south escape. We hit in 6 steps. Direct on the left lane, open."}
 {"n":734,"kind":"place","name":"the Underpass south escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass south escape. Matt keeps the radio coil for the hit. 7 steps, direct on the left lane, open."}
+{"n":735,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south escape. direct left open. 8 steps. The radio coil stays for the hit."}
+{"n":736,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at the Underpass. Nobody past the south escape. We hit in 2 steps. Direct on the left lane, open."}
+{"n":737,"kind":"place","name":"the Underpass south escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass south escape. Nia keeps the radio coil for the hit. 3 steps, direct on the left lane, open."}
