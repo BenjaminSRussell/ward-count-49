@@ -935,3 +935,6 @@
 {"n":935,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at South stair. Nobody past the south escape. We hit in 6 steps. Direct on the left lane, open."}
 {"n":936,"kind":"place","name":"South stair south escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"South stair south escape. Ivo keeps the rope for the hit. 7 steps, direct on the left lane, open."}
 {"n":937,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south escape. direct left open. 8 steps. The rope stays for the hit."}
+{"n":938,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at South stair. Nobody past the south escape. We hit in 2 steps. Direct on the left lane, open."}
+{"n":939,"kind":"place","name":"South stair south escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair south escape. Bess keeps the rope for the hit. 3 steps, direct on the left lane, open."}
+{"n":940,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south escape. direct left open. 4 steps. The rope stays for the hit."}
