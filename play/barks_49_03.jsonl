@@ -446,3 +446,6 @@
 {"n":446,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the pier south escape. Matt keeps the drum for the hit. 6 steps, direct on the left lane, open."}
 {"n":447,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, south escape. direct left open. 7 steps. The drum stays for the hit."}
 {"n":448,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at the pier. Nobody past the south escape. We hit in 8 steps. Direct on the left lane, open."}
+{"n":449,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the pier south escape. Nia keeps the drum for the hit. 2 steps, direct on the left lane, open."}
+{"n":450,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south escape. direct left open. 3 steps. The drum stays for the hit."}
+{"n":451,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at the pier. Nobody past the south escape. We hit in 4 steps. Direct on the left lane, open."}
