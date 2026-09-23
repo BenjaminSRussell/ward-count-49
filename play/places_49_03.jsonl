@@ -282,3 +282,6 @@
 {"n":282,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south escape. direct left open. 3 steps. The awning stays for the hit."}
 {"n":283,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at the pier. Nobody past the south escape. We hit in 4 steps. Direct on the left lane, open."}
 {"n":284,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the pier south escape. Ivo keeps the awning for the hit. 5 steps, direct on the left lane, open."}
+{"n":285,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south escape. direct left open. 6 steps. The awning stays for the hit."}
+{"n":286,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at the pier. Nobody past the south escape. We hit in 7 steps. Direct on the left lane, open."}
+{"n":287,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the pier south escape. Bess keeps the awning for the hit. 8 steps, direct on the left lane, open."}
