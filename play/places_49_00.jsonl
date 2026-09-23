@@ -492,3 +492,6 @@
 {"n":492,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north escape. direct left open. 6 steps. The lamp stays for the hit."}
 {"n":493,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Kessler alley. Nobody past the north escape. We hit in 7 steps. Direct on the left lane, open."}
 {"n":494,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Kessler alley north escape. Matt keeps the lamp for the hit. 8 steps, direct on the left lane, open."}
+{"n":495,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north escape. direct left open. 2 steps. The lamp stays for the hit."}
+{"n":496,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Kessler alley. Nobody past the north escape. We hit in 3 steps. Direct on the left lane, open."}
+{"n":497,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley north escape. Nia keeps the lamp for the hit. 4 steps, direct on the left lane, open."}
