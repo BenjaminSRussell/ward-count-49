@@ -979,3 +979,6 @@
 {"n":979,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south escape. direct left open. 8 steps. The rope stays for the hit."}
 {"n":980,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rope at Drydock. Nobody past the south escape. We hit in 2 steps. Direct on the left lane, open."}
 {"n":981,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Drydock south escape. Nia keeps the rope for the hit. 3 steps, direct on the left lane, open."}
+{"n":982,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south escape. direct left open. 4 steps. The rope stays for the hit."}
+{"n":983,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at Drydock. Nobody past the south escape. We hit in 5 steps. Direct on the left lane, open."}
+{"n":984,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Drydock south escape. Ivo keeps the rope for the hit. 6 steps, direct on the left lane, open."}
