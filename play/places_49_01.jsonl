@@ -152,3 +152,6 @@
 {"n":152,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north escape. direct left open. 8 steps. The shutter stays for the hit."}
 {"n":153,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Ward gate. Nobody past the north escape. We hit in 2 steps. Direct on the left lane, open."}
 {"n":154,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate north escape. Matt keeps the awning for the hit. 3 steps, direct on the left lane, open."}
+{"n":155,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north escape. direct left open. 4 steps. The awning stays for the hit."}
+{"n":156,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Ward gate. Nobody past the north escape. We hit in 5 steps. Direct on the left lane, open."}
+{"n":157,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Ward gate north escape. Nia keeps the awning for the hit. 6 steps, direct on the left lane, open."}
