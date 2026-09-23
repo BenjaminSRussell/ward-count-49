@@ -797,3 +797,6 @@
 {"n":797,"kind":"place","name":"Drydock north escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock north escape. Nia keeps the rebar for the hit. 3 steps, direct on the left lane, open."}
 {"n":798,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north escape. direct left open. 4 steps. The rebar stays for the hit."}
 {"n":799,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at Drydock. Nobody past the north escape. We hit in 5 steps. Direct on the left lane, open."}
+{"n":800,"kind":"place","name":"Drydock north escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock north escape. Ivo keeps the rebar for the hit. 6 steps, direct on the left lane, open."}
+{"n":801,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north escape. direct left open. 7 steps. The rebar stays for the hit."}
+{"n":802,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at Drydock. Nobody past the north escape. We hit in 8 steps. Direct on the left lane, open."}
