@@ -619,3 +619,6 @@
 {"n":619,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at Switchyard. Nobody past the north escape. We hit in 7 steps. Direct on the left lane, open."}
 {"n":620,"kind":"place","name":"Switchyard north escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard north escape. Ivo keeps the lamp for the hit. 8 steps, direct on the left lane, open."}
 {"n":621,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north escape. direct left open. 2 steps. The lamp stays for the hit."}
+{"n":622,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at Switchyard. Nobody past the north escape. We hit in 3 steps. Direct on the left lane, open."}
+{"n":623,"kind":"place","name":"Switchyard north escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard north escape. Bess keeps the lamp for the hit. 4 steps, direct on the left lane, open."}
+{"n":624,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north escape. direct left open. 5 steps. The lamp stays for the hit."}
