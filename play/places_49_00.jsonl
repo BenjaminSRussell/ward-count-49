@@ -189,3 +189,6 @@
 {"n":189,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north escape. direct left open. 4 steps. The barrel stays for the hit."}
 {"n":190,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Stockyard fence. Nobody past the north escape. We hit in 5 steps. Direct on the left lane, open."}
 {"n":191,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Stockyard fence north escape. Bess keeps the barrel for the hit. 6 steps, direct on the left lane, open."}
+{"n":192,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, north escape. direct left open. 7 steps. The barrel stays for the hit."}
+{"n":193,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at Mall court. Nobody past the north escape. We hit in 8 steps. Direct on the left lane, open."}
+{"n":194,"kind":"place","name":"Mall court north escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mall court north escape. Matt keeps the barrel for the hit. 2 steps, direct on the left lane, open."}
