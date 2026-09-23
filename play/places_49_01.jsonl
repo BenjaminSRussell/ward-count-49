@@ -311,3 +311,6 @@
 {"n":311,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, north escape. direct left open. 6 steps. The awning stays for the hit."}
 {"n":312,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at High line. Nobody past the north escape. We hit in 7 steps. Direct on the left lane, open."}
 {"n":313,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"High line north escape. Nia keeps the awning for the hit. 8 steps, direct on the left lane, open."}
+{"n":314,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north escape. direct left open. 2 steps. The awning stays for the hit."}
+{"n":315,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at High line. Nobody past the north escape. We hit in 3 steps. Direct on the left lane, open."}
+{"n":316,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line north escape. Ivo keeps the awning for the hit. 4 steps, direct on the left lane, open."}
