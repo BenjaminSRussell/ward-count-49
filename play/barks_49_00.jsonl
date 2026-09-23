@@ -455,3 +455,6 @@
 {"n":455,"kind":"place","name":"Switchyard north escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Switchyard north escape. Bess keeps the crate for the hit. 4 steps, direct on the left lane, open."}
 {"n":456,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north escape. direct left open. 5 steps. The crate stays for the hit."}
 {"n":457,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at Drydock. Nobody past the north escape. We hit in 6 steps. Direct on the left lane, open."}
+{"n":458,"kind":"place","name":"Drydock north escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Drydock north escape. Matt keeps the crate for the hit. 7 steps, direct on the left lane, open."}
+{"n":459,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north escape. direct left open. 8 steps. The crate stays for the hit."}
+{"n":460,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at Drydock. Nobody past the north escape. We hit in 2 steps. Direct on the left lane, open."}
