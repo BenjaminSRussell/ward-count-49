@@ -618,3 +618,6 @@
 {"n":618,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south escape. direct left open. 3 steps. The badge door stays for the hit."}
 {"n":619,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at the pier. Nobody past the south escape. We hit in 4 steps. Direct on the left lane, open."}
 {"n":620,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the pier south escape. Ivo keeps the badge door for the hit. 5 steps, direct on the left lane, open."}
+{"n":621,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south escape. direct left open. 6 steps. The badge door stays for the hit."}
+{"n":622,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the badge door at the pier. Nobody past the south escape. We hit in 7 steps. Direct on the left lane, open."}
+{"n":623,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the pier south escape. Bess keeps the badge door for the hit. 8 steps, direct on the left lane, open."}
