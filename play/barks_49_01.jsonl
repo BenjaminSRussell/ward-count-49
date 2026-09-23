@@ -487,3 +487,6 @@
 {"n":487,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line north escape. Bess keeps the drum for the hit. 7 steps, direct on the left lane, open."}
 {"n":488,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north escape. direct left open. 8 steps. The drum stays for the hit."}
 {"n":489,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the badge door at Ward gate. Nobody past the north escape. We hit in 2 steps. Direct on the left lane, open."}
+{"n":490,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate north escape. Matt keeps the badge door for the hit. 3 steps, direct on the left lane, open."}
+{"n":491,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north escape. direct left open. 4 steps. The badge door stays for the hit."}
+{"n":492,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at Ward gate. Nobody past the north escape. We hit in 5 steps. Direct on the left lane, open."}
