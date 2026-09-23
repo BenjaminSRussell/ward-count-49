@@ -415,3 +415,6 @@
 {"n":415,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at Mast yard. Nobody past the south escape. We hit in 3 steps. Direct on the left lane, open."}
 {"n":416,"kind":"place","name":"Mast yard south escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard south escape. Ivo keeps the drum for the hit. 4 steps, direct on the left lane, open."}
 {"n":417,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south escape. direct left open. 5 steps. The drum stays for the hit."}
+{"n":418,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at Mast yard. Nobody past the south escape. We hit in 6 steps. Direct on the left lane, open."}
+{"n":419,"kind":"place","name":"Mast yard south escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard south escape. Bess keeps the drum for the hit. 7 steps, direct on the left lane, open."}
+{"n":420,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south escape. direct left open. 8 steps. The drum stays for the hit."}
