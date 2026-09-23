@@ -144,3 +144,6 @@
 {"n":144,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south escape. direct left open. 5 steps. The shutter stays for the hit."}
 {"n":145,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at Drydock. Nobody past the south escape. We hit in 6 steps. Direct on the left lane, open."}
 {"n":146,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock south escape. Matt keeps the shutter for the hit. 7 steps, direct on the left lane, open."}
+{"n":147,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south escape. direct left open. 8 steps. The shutter stays for the hit."}
+{"n":148,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at Drydock. Nobody past the south escape. We hit in 2 steps. Direct on the left lane, open."}
+{"n":149,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Drydock south escape. Nia keeps the shutter for the hit. 3 steps, direct on the left lane, open."}
