@@ -642,3 +642,6 @@
 {"n":642,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock south escape. Matt keeps the lamp for the hit. 7 steps, direct on the left lane, open."}
 {"n":643,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south escape. direct left open. 8 steps. The lamp stays for the hit."}
 {"n":644,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Drydock. Nobody past the south escape. We hit in 2 steps. Direct on the left lane, open."}
+{"n":645,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Drydock south escape. Nia keeps the lamp for the hit. 3 steps, direct on the left lane, open."}
+{"n":646,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south escape. direct left open. 4 steps. The lamp stays for the hit."}
+{"n":647,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at Drydock. Nobody past the south escape. We hit in 5 steps. Direct on the left lane, open."}
