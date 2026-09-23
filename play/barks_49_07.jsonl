@@ -856,3 +856,6 @@
 {"n":856,"kind":"place","name":"Drydock east curb","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock east curb. Ivo keeps the radio coil for the start. 6 steps, arc on the left lane, open."}
 {"n":857,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, east curb. arc left open. 7 steps. The radio coil stays for the start."}
 {"n":858,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at Drydock. Nobody past the east curb. We start in 8 steps. Arc on the left lane, open."}
+{"n":859,"kind":"place","name":"Drydock east curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock east curb. Bess keeps the radio coil for the start. 2 steps, arc on the left lane, open."}
+{"n":860,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east curb. arc left open. 3 steps. The radio coil stays for the start."}
+{"n":861,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at High line. Nobody past the east curb. We start in 4 steps. Arc on the left lane, open."}
