@@ -505,3 +505,6 @@
 {"n":505,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the badge door at Ward gate. Nobody past the south escape. We hit in 2 steps. Direct on the left lane, open."}
 {"n":506,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate south escape. Matt keeps the badge door for the hit. 3 steps, direct on the left lane, open."}
 {"n":507,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south escape. direct left open. 4 steps. The badge door stays for the hit."}
+{"n":508,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at Ward gate. Nobody past the south escape. We hit in 5 steps. Direct on the left lane, open."}
+{"n":509,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Ward gate south escape. Nia keeps the badge door for the hit. 6 steps, direct on the left lane, open."}
+{"n":510,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, south escape. direct left open. 7 steps. The badge door stays for the hit."}
