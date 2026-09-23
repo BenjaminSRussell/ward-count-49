@@ -745,3 +745,6 @@
 {"n":745,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at Mast yard. Nobody past the south escape. We hit in 4 steps. Direct on the left lane, open."}
 {"n":746,"kind":"place","name":"Mast yard south escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Mast yard south escape. Matt keeps the radio coil for the hit. 5 steps, direct on the left lane, open."}
 {"n":747,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, south escape. direct left open. 6 steps. The radio coil stays for the hit."}
+{"n":748,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Mast yard. Nobody past the south escape. We hit in 7 steps. Direct on the left lane, open."}
+{"n":749,"kind":"place","name":"Mast yard south escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mast yard south escape. Nia keeps the radio coil for the hit. 8 steps, direct on the left lane, open."}
+{"n":750,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south escape. direct left open. 2 steps. The radio coil stays for the hit."}
