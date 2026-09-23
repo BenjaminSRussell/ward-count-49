@@ -108,3 +108,6 @@
 {"n":108,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south escape. direct left open. 4 steps. The shutter stays for the hit."}
 {"n":109,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at the pier. Nobody past the south escape. We hit in 5 steps. Direct on the left lane, open."}
 {"n":110,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the pier south escape. Matt keeps the shutter for the hit. 6 steps, direct on the left lane, open."}
+{"n":111,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, south escape. direct left open. 7 steps. The shutter stays for the hit."}
+{"n":112,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at the pier. Nobody past the south escape. We hit in 8 steps. Direct on the left lane, open."}
+{"n":113,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the pier south escape. Nia keeps the shutter for the hit. 2 steps, direct on the left lane, open."}
