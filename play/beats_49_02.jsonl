@@ -179,3 +179,6 @@
 {"n":179,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Kessler alley. Nobody past the south escape. We hit in 6 steps. Direct on the left lane, open."}
 {"n":180,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley south escape. Ivo keeps the barrel for the hit. 7 steps, direct on the left lane, open."}
 {"n":181,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south escape. direct left open. 8 steps. The barrel stays for the hit."}
+{"n":182,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Kessler alley. Nobody past the south escape. We hit in 2 steps. Direct on the left lane, open."}
+{"n":183,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley south escape. Bess keeps the barrel for the hit. 3 steps, direct on the left lane, open."}
+{"n":184,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south escape. direct left open. 4 steps. The barrel stays for the hit."}
