@@ -319,3 +319,6 @@
 {"n":319,"kind":"place","name":"Switchyard west curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard west curb. Bess keeps the barrel for the start. 4 steps, arc on the left lane, open."}
 {"n":320,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west curb. arc left open. 5 steps. The barrel stays for the start."}
 {"n":321,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at Drydock. Nobody past the west curb. We start in 6 steps. Arc on the left lane, open."}
+{"n":322,"kind":"place","name":"Drydock west curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock west curb. Matt keeps the barrel for the start. 7 steps, arc on the left lane, open."}
+{"n":323,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west curb. arc left open. 8 steps. The barrel stays for the start."}
+{"n":324,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at Drydock. Nobody past the west curb. We start in 2 steps. Arc on the left lane, open."}
