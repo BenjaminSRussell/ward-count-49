@@ -103,3 +103,6 @@
 {"n":103,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at South stair. Nobody past the south escape. We hit in 6 steps. Direct on the left lane, open."}
 {"n":104,"kind":"place","name":"South stair south escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"South stair south escape. Ivo keeps the shutter for the hit. 7 steps, direct on the left lane, open."}
 {"n":105,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south escape. direct left open. 8 steps. The shutter stays for the hit."}
+{"n":106,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at South stair. Nobody past the south escape. We hit in 2 steps. Direct on the left lane, open."}
+{"n":107,"kind":"place","name":"South stair south escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair south escape. Bess keeps the shutter for the hit. 3 steps, direct on the left lane, open."}
+{"n":108,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south escape. direct left open. 4 steps. The shutter stays for the hit."}
