@@ -714,3 +714,6 @@
 {"n":714,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, north escape. direct left open. 4 steps. The rebar stays for the hit."}
 {"n":715,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at the Underpass. Nobody past the north escape. We hit in 5 steps. Direct on the left lane, open."}
 {"n":716,"kind":"place","name":"the Underpass north escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Underpass north escape. Ivo keeps the rebar for the hit. 6 steps, direct on the left lane, open."}
+{"n":717,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, north escape. direct left open. 7 steps. The rebar stays for the hit."}
+{"n":718,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at the Underpass. Nobody past the north escape. We hit in 8 steps. Direct on the left lane, open."}
+{"n":719,"kind":"place","name":"the Underpass north escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Underpass north escape. Bess keeps the rebar for the hit. 2 steps, direct on the left lane, open."}
