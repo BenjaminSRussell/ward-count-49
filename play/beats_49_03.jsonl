@@ -373,3 +373,6 @@
 {"n":373,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Stockyard fence. Nobody past the south escape. We hit in 3 steps. Direct on the left lane, open."}
 {"n":374,"kind":"place","name":"Stockyard fence south escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence south escape. Matt keeps the drum for the hit. 4 steps, direct on the left lane, open."}
 {"n":375,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, south escape. direct left open. 5 steps. The drum stays for the hit."}
+{"n":376,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at Stockyard fence. Nobody past the south escape. We hit in 6 steps. Direct on the left lane, open."}
+{"n":377,"kind":"place","name":"Stockyard fence south escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence south escape. Nia keeps the drum for the hit. 7 steps, direct on the left lane, open."}
+{"n":378,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south escape. direct left open. 8 steps. The drum stays for the hit."}
