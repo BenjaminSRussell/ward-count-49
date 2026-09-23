@@ -844,3 +844,6 @@
 {"n":844,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south escape. direct left open. 6 steps. The rope stays for the hit."}
 {"n":845,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at Kessler alley. Nobody past the south escape. We hit in 7 steps. Direct on the left lane, open."}
 {"n":846,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Kessler alley south escape. Matt keeps the rope for the hit. 8 steps, direct on the left lane, open."}
+{"n":847,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, south escape. direct left open. 2 steps. The rope stays for the hit."}
+{"n":848,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rope at Kessler alley. Nobody past the south escape. We hit in 3 steps. Direct on the left lane, open."}
+{"n":849,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Kessler alley south escape. Nia keeps the rope for the hit. 4 steps, direct on the left lane, open."}
