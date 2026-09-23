@@ -667,3 +667,6 @@
 {"n":667,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south escape. direct left open. 4 steps. The rebar stays for the hit."}
 {"n":668,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at Ward gate. Nobody past the south escape. We hit in 5 steps. Direct on the left lane, open."}
 {"n":669,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Ward gate south escape. Nia keeps the rebar for the hit. 6 steps, direct on the left lane, open."}
+{"n":670,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, south escape. direct left open. 7 steps. The rebar stays for the hit."}
+{"n":671,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at Ward gate. Nobody past the south escape. We hit in 8 steps. Direct on the left lane, open."}
+{"n":672,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Ward gate south escape. Ivo keeps the rebar for the hit. 2 steps, direct on the left lane, open."}
