@@ -61,3 +61,6 @@
 {"n":61,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at the Underpass. Nobody past the south escape. We hit in 6 steps. Direct on the left lane, open."}
 {"n":62,"kind":"place","name":"the Underpass south escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Underpass south escape. Matt keeps the shutter for the hit. 7 steps, direct on the left lane, open."}
 {"n":63,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south escape. direct left open. 8 steps. The shutter stays for the hit."}
+{"n":64,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at the Underpass. Nobody past the south escape. We hit in 2 steps. Direct on the left lane, open."}
+{"n":65,"kind":"place","name":"the Underpass south escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Underpass south escape. Nia keeps the shutter for the hit. 3 steps, direct on the left lane, open."}
+{"n":66,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, south escape. direct left open. 4 steps. The shutter stays for the hit."}
