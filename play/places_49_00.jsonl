@@ -123,3 +123,6 @@
 {"n":123,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north escape. direct left open. 8 steps. The hydrant stays for the hit."}
 {"n":124,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at Drydock. Nobody past the north escape. We hit in 2 steps. Direct on the left lane, open."}
 {"n":125,"kind":"place","name":"Drydock north escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Drydock north escape. Nia keeps the hydrant for the hit. 3 steps, direct on the left lane, open."}
+{"n":126,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north escape. direct left open. 4 steps. The hydrant stays for the hit."}
+{"n":127,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at Drydock. Nobody past the north escape. We hit in 5 steps. Direct on the left lane, open."}
+{"n":128,"kind":"place","name":"Drydock north escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock north escape. Ivo keeps the hydrant for the hit. 6 steps, direct on the left lane, open."}
