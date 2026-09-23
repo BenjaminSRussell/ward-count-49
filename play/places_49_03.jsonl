@@ -288,3 +288,6 @@
 {"n":288,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south escape. direct left open. 2 steps. The awning stays for the hit."}
 {"n":289,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Clinic roof. Nobody past the south escape. We hit in 3 steps. Direct on the left lane, open."}
 {"n":290,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Clinic roof south escape. Matt keeps the awning for the hit. 4 steps, direct on the left lane, open."}
+{"n":291,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, south escape. direct left open. 5 steps. The awning stays for the hit."}
+{"n":292,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Clinic roof. Nobody past the south escape. We hit in 6 steps. Direct on the left lane, open."}
+{"n":293,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Clinic roof south escape. Nia keeps the awning for the hit. 7 steps, direct on the left lane, open."}
