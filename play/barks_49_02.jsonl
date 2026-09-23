@@ -426,3 +426,6 @@
 {"n":426,"kind":"place","name":"South stair south escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"South stair south escape. Matt keeps the crate for the hit. 8 steps, direct on the left lane, open."}
 {"n":427,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, south escape. direct left open. 2 steps. The crate stays for the hit."}
 {"n":428,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at South stair. Nobody past the south escape. We hit in 3 steps. Direct on the left lane, open."}
+{"n":429,"kind":"place","name":"South stair south escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"South stair south escape. Nia keeps the crate for the hit. 4 steps, direct on the left lane, open."}
+{"n":430,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, south escape. direct left open. 5 steps. The crate stays for the hit."}
+{"n":431,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at South stair. Nobody past the south escape. We hit in 6 steps. Direct on the left lane, open."}
